@@ -1,4 +1,8 @@
-﻿Version 3.0 - Maintenance Release - 2011.03.26
+﻿Version 3.1.1 - Maintenance Release
+=================================
+- Updated to work with Twitter 1.1 API
+
+Version 3.0 - Maintenance Release - 2011.03.26
 =================================
 As of this release, TwitterVB is in "maintenance" mode.  No new features will be added to the library.
 - FileSocialUpload() method removed due to Basic Auth deprecation
