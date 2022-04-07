@@ -1,8 +1,1 @@
-TwitterVB
-=========
-
-A .NET library for communicating with Twitter
-
-I stopped maintaining this library in 2011.  As of October 2018, Rob Denny has been added as collaborator with the ability to push changes to the repository.  He'll be handling the library moving forward.  Thanks, Rob!
-
---Duane
+I'm going to delete this repo in a week or so, as it's a dead project that is many years out of date with the Twitter API.  If you want to clone or fork this repo for your own purposes, please do so.
